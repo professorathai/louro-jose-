@@ -1,0 +1,40 @@
+body{
+	background:linear-gradient(#FEFEFE, #888888)
+  
+}
+nav {
+	text-align: center;
+}
+nav li {
+display: inline;
+margin: 0 0 0 370kpx;
+}
+
+nav a {text-transform: uppercase; 
+       color: #000000;
+      
+       font-weight: bold;
+       font-size: 16PX;
+       text-decoration: none;
+  
+
+}
+
+p { text-align: center }
+
+em{
+	 text-align: center }
+
+	 
+.copyright {
+	color: #000000;
+	font-size: 13px;
+	margin: 20px 0 0;
+ text-align: center;}
+
+
+h1 {
+  border: 5px solid grey;
+}
+
+}
